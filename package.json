@@ -1,0 +1,24 @@
+{
+  "name": "rabbitmq_node",
+  "version": "1.0.0",
+  "description": "Demo Rabbit + Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NguyenTungs/rabbitmq-with-nodejs.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "ampq",
+    "nodejs"
+  ],
+  "author": "\"Nguyen Tung <tungns@queenb.vn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NguyenTungs/rabbitmq-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/NguyenTungs/rabbitmq-with-nodejs"
+}
